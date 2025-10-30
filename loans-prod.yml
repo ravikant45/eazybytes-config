@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans related production APIS"
+  message: "Welcome to EazyBank loans related prod APIS"
   contactDetails:
     name: "Ravikant Waghmare- Product Owner"
     email: "ravikant@eazybank.com"
