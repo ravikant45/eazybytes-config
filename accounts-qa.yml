@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIS"
+  contactDetails:
+    name: "Smitha Ray- QA"
+    email: "smithaa@eazybank.com"
+  onCallSupport:
+    - (666) 623-1234
+    - (666) 666-1345

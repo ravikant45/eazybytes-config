@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIS"
+  contactDetails:
+    name: "Smitha Ray- QA"
+    email: "smithaaa@eazybank.com"
+  onCallSupport:
+    - (666) 623-1234
+    - (666) 666-1345
