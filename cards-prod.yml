@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related production APIS"
+  message: "Welcome to EazyBank cards related prod APIS"
   contactDetails:
     name: "Sagar Yenkure - Product Owner"
     email: "sagar@eazybank.com"
