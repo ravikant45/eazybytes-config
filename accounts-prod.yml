@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIS"
+  message: "Welcome to EazyBank accounts related webhook production APIS"
   contactDetails:
     name: "Raman Patil- Software Engineer"
     email: "{cipher}c170340f4af591bec350ad64670bcbb6d1f918fc77645b5dacd79d0f03dfb0bfdcb48512edcced70e44f52aac1edb0af"
